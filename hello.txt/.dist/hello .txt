@@ -1,4 +1,0 @@
-we all are leraing about git commands
-
-1 git init 
-2 git status
