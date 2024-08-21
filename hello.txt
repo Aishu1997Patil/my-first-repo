@@ -1,3 +1,4 @@
 we are learing basic commands
 git init we hav e initialised got repository
 git status 
+these are changes i made
